@@ -70,5 +70,5 @@ After downloading the project, you will need to make the following changes:
 <a href="https://www.hackerrank.com/rushi_lavate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rushi_lavate" height="30" width="40" /></a>
 </p>
 
-
-<h3 align='right'> Thanks for reading 😊 👍🏻 </h3>
+<br>
+<h2 align='center'>😊 👍🏻 * * * Thanks for reading * * * 😊 👍🏻 </h2>
